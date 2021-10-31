@@ -1,0 +1,6 @@
+[
+      { "id": "id-1", "text": "Заметка 1", "complited": false },
+      { "id": "id-2", "text": "Заметка 2", "complited": true },
+      { "id": "id-3", "text": "Заметка 3", "complited": false },
+      { "id": "id-4", "text": "Заметка 4", "complited": false }
+]
